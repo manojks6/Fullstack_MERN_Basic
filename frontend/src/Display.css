@@ -1,0 +1,15 @@
+
+td{
+     padding:0px 10px 10px 10px;
+     text-align: center;
+
+}
+table{
+     display:inline-block;
+}
+th{
+     
+     padding: 0px 10px 10px 10px ;
+     text-align: center;
+     padding-left: 20px;
+}
